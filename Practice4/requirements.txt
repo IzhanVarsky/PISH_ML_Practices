@@ -1,0 +1,13 @@
+numpy
+scikit-learn
+matplotlib
+pillow
+tqdm
+jupyter
+ipykernel
+pandas
+
+xgboost
+lightgbm
+catboost
+umap-learn
